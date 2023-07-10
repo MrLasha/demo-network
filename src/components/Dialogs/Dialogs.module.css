@@ -1,0 +1,24 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 15fr;
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialogsItems .active {
+    color: #ffd700;
+}
+
+
+
+.messages {
+    padding: 10px;
+}
+
+.dialogs img {
+    width: 40px;
+    padding: 5px;
+    border-radius: 50%;
+}

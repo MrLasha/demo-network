@@ -1,0 +1,31 @@
+.nav {
+  grid-area: n;
+  background-color: #022c43 ;
+  border: 2px solid #ffd700;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+
+.item a.active{
+  color: gold;
+}
+
+.itemf {
+  padding-top: 50px;
+  padding-bottom: 5px;
+  font-size: large;
+}
+
+.itemf a {
+  color: white;
+  text-decoration: none;
+}
+
+.itemf a.activef{
+  color: gold;
+}
